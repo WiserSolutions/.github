@@ -40,3 +40,7 @@ Steps
 4. Following any formatting and testing guidelines specific to this repo
 5. Push changes to your branch
 6. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
+
+
+## Note 
+this is the default template and can be overwritten as stated [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
